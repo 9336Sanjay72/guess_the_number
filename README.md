@@ -1,6 +1,6 @@
 # Number Guessing Game 🎯
 
-🔗 **Live Demo:** [Click here to play](https://9336sanjay72.github.io/number_guessing_game/)
+🔗 **Live Demo:** [Click here to play](https://9336sanjay72.github.io/guess_the_number/)
 
 ---
 
